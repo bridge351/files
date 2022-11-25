@@ -1,0 +1,474 @@
+/* screen - template-1a */
+
+.template-1a {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1867px;
+  width: 1366px;
+}
+
+.template-1a .logo-crema-troja-transparente-6 {
+  height: 125px;
+  margin-left: 2.29px;
+  margin-top: 75px;
+  object-fit: cover;
+  width: 214px;
+}
+
+.template-1a .confirmao-de-registo {
+  align-self: flex-end;
+  letter-spacing: 2.26px;
+  line-height: normal;
+  margin-right: 4px;
+  margin-top: 126px;
+  width: 1247px;
+}
+
+.template-1a .ol-o-teu-pedido-de {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 60px;
+  width: 1135px;
+}
+
+.template-1a .group-163028 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 44px;
+  min-width: 308px;
+}
+
+.template-1a .overlap-group {
+  align-items: center;
+  background-color: var(--red-ribbon);
+  border-radius: 100px;
+  display: flex;
+  height: 58px;
+  min-width: 306px;
+  padding: 0 28px;
+}
+
+.template-1a .confirmar-e-mail {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 16.4px;
+  text-align: center;
+  width: 250px;
+}
+
+.template-1a .o-endereo-de-e-mail {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 34px;
+  width: 1135px;
+}
+
+.template-1a .rectangle-1 {
+  background-color: var(--grape);
+  border: 1px none;
+  height: 2px;
+  margin-top: 93px;
+  width: 1136px;
+}
+
+.template-1a .overlap-group1 {
+  align-self: flex-start;
+  height: 76px;
+  margin-left: 116px;
+  margin-top: 59px;
+  position: relative;
+  width: 692px;
+}
+
+.template-1a .liga-t-se-simples-melhor {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 692px;
+}
+
+.template-1a .vector {
+  height: 19px;
+  left: 150px;
+  position: absolute;
+  top: 49px;
+  width: 38px;
+}
+
+.template-1a .wwwligatpt {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 19px;
+  width: 1135px;
+}
+
+.template-1a .overlap-group2 {
+  height: 767px;
+  margin-top: 61px;
+  position: relative;
+  width: 1366px;
+}
+
+.template-1a .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--grape);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 767px;
+  padding: 52px 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.template-1a .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 76px;
+  min-height: 213px;
+  width: 619px;
+}
+
+.template-1a .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 166px;
+  min-width: 619px;
+}
+
+.template-1a .rectangle-2 {
+  background-color: var(--red-ribbon);
+  border: 0.9px none;
+  height: 3px;
+  margin-top: 40px;
+  width: 95px;
+}
+
+.template-1a .liga-t-nossa-fibra {
+  letter-spacing: 1.66px;
+  line-height: 82.9px;
+  width: 508px;
+}
+
+.template-1a .fibra-se-simples-melhor {
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-left: 54.32px;
+  white-space: nowrap;
+  width: 442px;
+}
+
+.template-1a .icon-location_pin {
+  align-self: center;
+  height: 18px;
+  margin-left: 506.0px;
+  margin-top: 25px;
+  width: 13px;
+}
+
+.template-1a .flex-row-1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 83px;
+  margin-right: 19.0px;
+  margin-top: 8px;
+  min-width: 1231px;
+}
+
+.template-1a .frame {
+  height: 11px;
+  margin-bottom: 6.98px;
+  width: 16px;
+}
+
+.template-1a .email {
+  letter-spacing: 0;
+  line-height: 24.6px;
+  margin-left: 15px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.template-1a .geralligatpt {
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-bottom: 4.4px;
+  margin-left: 222px;
+  text-align: right;
+  white-space: nowrap;
+  width: 136px;
+}
+
+.template-1a .avenida-jos-batista {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22.3px;
+  margin-left: 348px;
+  width: 421px;
+}
+
+.template-1a .flex-row-2 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 51px;
+  margin-right: 2.0px;
+  margin-top: 14px;
+  min-width: 1132px;
+}
+
+.template-1a .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 51px;
+  width: 462px;
+}
+
+.template-1a .rectangle-3 {
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-right: 0;
+  width: 462px;
+}
+
+.template-1a .flex-row-3 {
+  align-items: center;
+  display: flex;
+  gap: 250px;
+  height: 25px;
+  margin-top: 11px;
+  min-width: 431px;
+}
+
+.template-1a .facebook {
+  letter-spacing: 0;
+  line-height: 24.6px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.template-1a .ligatpt {
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-bottom: 0.8px;
+  text-align: right;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.template-1a .rectangle-4 {
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-right: 0;
+  margin-top: 14px;
+  width: 462px;
+}
+
+.template-1a .faq {
+  letter-spacing: 0;
+  line-height: 17.9px;
+  margin-bottom: 0.88px;
+  margin-left: 349px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.template-1a .text-23 {
+  letter-spacing: 0;
+  line-height: 17.9px;
+  margin-bottom: 0.88px;
+  margin-left: 257px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.template-1a .rectangle {
+  align-self: flex-end;
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-right: 118px;
+  margin-top: 11px;
+  width: 321px;
+}
+
+.template-1a .flex-row-4 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 35px;
+  margin-right: 0.52px;
+  min-width: 1131px;
+}
+
+.template-1a .vector-1 {
+  align-self: center;
+  height: 11px;
+  margin-bottom: 8.48px;
+  width: 11px;
+}
+
+.template-1a .instagram {
+  letter-spacing: 0;
+  line-height: 24.6px;
+  margin-left: 20px;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.template-1a .ligatpt-1 {
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-left: 255px;
+  margin-top: 3.6px;
+  text-align: right;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.template-1a .documentos-legais {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 17.9px;
+  margin-left: 349px;
+  white-space: nowrap;
+  width: 187px;
+}
+
+.template-1a .text-24 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 17.9px;
+  margin-left: 120px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.template-1a .rectangle-5 {
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-left: 116px;
+  margin-top: 1px;
+  width: 462px;
+}
+
+.template-1a .flex-row-5 {
+  align-items: center;
+  display: flex;
+  height: 25px;
+  margin-left: 117.75px;
+  margin-top: 1px;
+  min-width: 460px;
+}
+
+.template-1a .vector-2 {
+  height: 10px;
+  margin-bottom: 1.0px;
+  width: 10px;
+}
+
+.template-1a .linked-in {
+  letter-spacing: 0;
+  line-height: 24.6px;
+  margin-left: 19px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.template-1a .ligatpt-2 {
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-bottom: 0.8px;
+  margin-left: 250px;
+  text-align: right;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.template-1a .rectangle-6 {
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-left: 116px;
+  margin-top: 14px;
+  width: 462px;
+}
+
+.template-1a .flex-row-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 27px;
+  margin-left: 118.92px;
+  margin-top: 13px;
+  min-width: 459px;
+}
+
+.template-1a .vector-3 {
+  align-self: center;
+  height: 9px;
+  margin-bottom: 0.26px;
+  width: 9px;
+}
+
+.template-1a .whats-app {
+  letter-spacing: 0;
+  line-height: 24.6px;
+  margin-left: 19px;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.template-1a .phone {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22.3px;
+  margin-left: 229px;
+  text-align: right;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.template-1a .rectangle-7 {
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-left: 116px;
+  margin-top: 9px;
+  width: 462px;
+}
+
+.template-1a .custom-made-by-the-a {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 17.9px;
+  margin-right: 112px;
+  margin-top: 6px;
+  white-space: nowrap;
+  width: 327px;
+}
+
+.template-1a .vector-4 {
+  height: 10px;
+  left: 118px;
+  position: absolute;
+  top: 508px;
+  width: 10px;
+}

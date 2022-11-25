@@ -1,0 +1,464 @@
+/* screen - template-2a */
+
+.template-2a {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1833px;
+  width: 1366px;
+}
+
+.template-2a .logo-crema-troja-transparente-6 {
+  height: 125px;
+  margin-left: 2.29px;
+  margin-top: 75px;
+  object-fit: cover;
+  width: 214px;
+}
+
+.template-2a .alterao-de-senha {
+  align-self: flex-end;
+  letter-spacing: 2.26px;
+  line-height: normal;
+  margin-right: 4px;
+  margin-top: 126px;
+  width: 1247px;
+}
+
+.template-2a .ol-o-teu-pedido-de {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 60px;
+  width: 1135px;
+}
+
+.template-2a .group-163028 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 44px;
+  min-width: 308px;
+}
+
+.template-2a .overlap-group {
+  align-items: center;
+  background-color: var(--red-ribbon);
+  border-radius: 100px;
+  display: flex;
+  height: 58px;
+  min-width: 306px;
+  padding: 0 28px;
+}
+
+.template-2a .alterar-senha {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 16.4px;
+  text-align: center;
+  width: 250px;
+}
+
+.template-2a .para-tua-segurana {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 34px;
+  width: 1135px;
+}
+
+.template-2a .rectangle-1 {
+  background-color: var(--grape);
+  border: 1px none;
+  height: 2px;
+  margin-top: 92px;
+  width: 1136px;
+}
+
+.template-2a .overlap-group1 {
+  align-self: flex-start;
+  height: 76px;
+  margin-left: 116px;
+  margin-top: 59px;
+  position: relative;
+  width: 692px;
+}
+
+.template-2a .liga-t-se-simples-melhor {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 692px;
+}
+
+.template-2a .vector {
+  height: 19px;
+  left: 148px;
+  position: absolute;
+  top: 50px;
+  width: 38px;
+}
+
+.template-2a .wwwligatpt {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 19px;
+  width: 1135px;
+}
+
+.template-2a .group-163037 {
+  align-items: flex-start;
+  display: flex;
+  height: 767px;
+  margin-top: 61px;
+  min-width: 1366px;
+}
+
+.template-2a .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--grape);
+  display: flex;
+  flex-direction: column;
+  min-height: 767px;
+  padding: 52px 0;
+  width: 1366px;
+}
+
+.template-2a .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 76px;
+  min-height: 213px;
+  width: 619px;
+}
+
+.template-2a .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 166px;
+  min-width: 619px;
+}
+
+.template-2a .rectangle-2 {
+  background-color: var(--red-ribbon);
+  border: 0.9px none;
+  height: 3px;
+  margin-top: 40px;
+  width: 95px;
+}
+
+.template-2a .liga-t-nossa-fibra {
+  letter-spacing: 1.66px;
+  line-height: 82.9px;
+  width: 508px;
+}
+
+.template-2a .fibra-se-simples-melhor {
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-left: 54.32px;
+  white-space: nowrap;
+  width: 442px;
+}
+
+.template-2a .mdiplace {
+  align-self: center;
+  height: 22px;
+  margin-left: 506.0px;
+  margin-top: 23px;
+  width: 22px;
+}
+
+.template-2a .flex-row-1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 83px;
+  margin-right: 19.0px;
+  margin-top: 6px;
+  min-width: 1231px;
+}
+
+.template-2a .frame {
+  height: 11px;
+  margin-bottom: 6.98px;
+  width: 16px;
+}
+
+.template-2a .email {
+  letter-spacing: 0;
+  line-height: 24.6px;
+  margin-left: 15px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.template-2a .geralligatpt {
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-bottom: 4.4px;
+  margin-left: 222px;
+  text-align: right;
+  white-space: nowrap;
+  width: 136px;
+}
+
+.template-2a .avenida-jos-batista {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22.3px;
+  margin-left: 348px;
+  width: 421px;
+}
+
+.template-2a .flex-row-2 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 51px;
+  margin-right: 2.0px;
+  margin-top: 14px;
+  min-width: 1132px;
+}
+
+.template-2a .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 51px;
+  width: 462px;
+}
+
+.template-2a .rectangle-3 {
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-right: 0;
+  width: 462px;
+}
+
+.template-2a .flex-row-3 {
+  align-items: center;
+  display: flex;
+  gap: 250px;
+  height: 25px;
+  margin-top: 11px;
+  min-width: 431px;
+}
+
+.template-2a .facebook {
+  letter-spacing: 0;
+  line-height: 24.6px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.template-2a .ligatpt {
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-bottom: 0.8px;
+  text-align: right;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.template-2a .rectangle-4 {
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-right: 0;
+  margin-top: 14px;
+  width: 462px;
+}
+
+.template-2a .faq {
+  letter-spacing: 0;
+  line-height: 17.9px;
+  margin-bottom: 0.88px;
+  margin-left: 349px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.template-2a .text-3 {
+  letter-spacing: 0;
+  line-height: 17.9px;
+  margin-bottom: 0.88px;
+  margin-left: 257px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.template-2a .rectangle {
+  align-self: flex-end;
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-right: 118px;
+  margin-top: 11px;
+  width: 321px;
+}
+
+.template-2a .flex-row-4 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 35px;
+  margin-right: 2.0px;
+  min-width: 1132px;
+}
+
+.template-2a .frame-1 {
+  align-self: center;
+  height: 14px;
+  margin-bottom: 8.48px;
+  width: 14px;
+}
+
+.template-2a .instagram {
+  letter-spacing: 0;
+  line-height: 24.6px;
+  margin-left: 18px;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.template-2a .ligatpt-1 {
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-left: 255px;
+  margin-top: 3.6px;
+  text-align: right;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.template-2a .documentos-legais {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 17.9px;
+  margin-left: 349px;
+  white-space: nowrap;
+  width: 187px;
+}
+
+.template-2a .text-4 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 17.9px;
+  margin-left: 120px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.template-2a .rectangle-5 {
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-left: 116px;
+  margin-top: 1px;
+  width: 462px;
+}
+
+.template-2a .flex-row-5 {
+  align-items: center;
+  display: flex;
+  height: 25px;
+  margin-left: 116px;
+  margin-top: 1px;
+  min-width: 462px;
+}
+
+.template-2a .mdilinkedin {
+  height: 14px;
+  margin-bottom: 1.0px;
+  width: 14px;
+}
+
+.template-2a .linked-in {
+  letter-spacing: 0;
+  line-height: 24.6px;
+  margin-left: 18px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.template-2a .ligatpt-2 {
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-bottom: 0.8px;
+  margin-left: 250px;
+  text-align: right;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.template-2a .rectangle-6 {
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-left: 116px;
+  margin-top: 14px;
+  width: 462px;
+}
+
+.template-2a .flex-row-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 27px;
+  margin-left: 118px;
+  margin-top: 13px;
+  min-width: 460px;
+}
+
+.template-2a .riwhatsapp-fill {
+  align-self: center;
+  height: 11px;
+  margin-bottom: 0.26px;
+  width: 11px;
+}
+
+.template-2a .whats-app {
+  letter-spacing: 0;
+  line-height: 24.6px;
+  margin-left: 19px;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.template-2a .phone {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22.3px;
+  margin-left: 229px;
+  text-align: right;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.template-2a .rectangle-7 {
+  background-color: var(--cream-2);
+  border: 0.9px none;
+  height: 1px;
+  margin-left: 116px;
+  margin-top: 9px;
+  width: 462px;
+}
+
+.template-2a .custom-made-by-the-a {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 17.9px;
+  margin-right: 112px;
+  margin-top: 6px;
+  white-space: nowrap;
+  width: 327px;
+}
